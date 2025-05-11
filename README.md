@@ -55,7 +55,7 @@ LightGBM achieved the highest accuracy of **84.36%**, making it the final chosen
 
 - `titanic_model.ipynb`: Main Jupyter Notebook with data cleaning, modelling, and visualisations
 - `images/`: Confusion matrix, feature importance plot, and other visuals
-- `dataset/`: Raw Titanic dataset
+- `dataset/`: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ---
 
